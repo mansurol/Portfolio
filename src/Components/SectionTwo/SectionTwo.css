@@ -1,0 +1,25 @@
+.FullSectionColorTwo{
+    background-color: #212529;
+}
+.HeaderSection h2{
+    font-size: 35px;
+    color: #ffffff;
+    border-bottom: 1px solid #56575D;
+    padding:10px ;
+    text-align: center;
+}
+.MyPhoto img{
+    width: 280px;
+    height: 380px;
+    border-radius: 15px;
+    
+}
+.SectionTwoContents{
+    text-align: justify;
+}
+.SectionTwoContents h2 {
+    color: #fff;
+}
+.SectionTwoContents p{
+    color: #fff;
+}

@@ -1,0 +1,47 @@
+.contentstyle{
+    text-align: justify;
+}
+.contentstyle h2{
+    color: #ffff;
+}
+.contentstyle p{
+    color: #ffff;
+}
+.Btn2{
+    margin-left: 20px;
+}
+
+.ButtonColor Button{
+    background-color: #18D3B4;
+    color: #3A566A;
+    border-radius: 10px;
+}
+.IconStyle a{
+    padding: 5px;
+}
+.webLogoStyle img{
+ border-radius: 10px;
+ text-align: right;
+}
+.webLogoStyle {
+    text-align: right;
+}
+.FullSectionColor{
+    background-color: #212529;
+}
+
+
+/*
+.animation {
+
+    position: relative;
+    animation: mymove 4s infinite;
+ 
+  }
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 80px;}
+  }
+*/
+ 

@@ -1,0 +1,22 @@
+.StylePartt{
+    color: #fff;
+    padding: 20px;
+    border: #fff;
+   
+}
+.StylePartt p{
+    text-align: center;
+    font-size: 20px;
+}
+.StylePartt img{
+    width: 200px;
+    height: 200px;
+}
+.box{
+    width : 250px ;
+    height: 260px;
+    border-radius: 15px;
+    border: 1px solid #8CDCF1;
+    
+   
+}

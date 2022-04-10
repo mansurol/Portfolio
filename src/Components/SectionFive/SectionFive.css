@@ -1,0 +1,23 @@
+.FullSectionColorFive{
+    background-color:#212529;
+}
+.HeaderSectionFive h2{
+    font-size: 45px;
+    color: #ffff;
+    border-bottom: 1px solid #56575D;
+    padding:10px ;
+    letter-spacing: 7px;
+    text-align: center;
+
+}
+.addressDetais{
+    text-align: justify;
+
+}
+.importStyle{
+    width: 80%;
+    background-color: #212529;
+}
+.sendBtn{
+    color:#fff
+}
