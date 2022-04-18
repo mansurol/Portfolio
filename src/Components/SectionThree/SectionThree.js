@@ -14,7 +14,7 @@ const SectionThree = () => {
 
         <div>
             <div>
-            <div class="d-flex flex-wrap mt-5">
+            <div class="d-flex flex-wrap mt-5 ">
                 {
                     Data.map((All)=> <PartTwo fullData ={All} /> )
                 }

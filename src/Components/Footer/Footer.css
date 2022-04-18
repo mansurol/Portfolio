@@ -1,0 +1,12 @@
+.FooterColor{
+    background-color:#212529;
+}
+.FooterStyle {
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+hr{
+    width: 100%;
+    color: #fff;
+}

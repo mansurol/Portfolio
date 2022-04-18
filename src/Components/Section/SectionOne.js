@@ -17,6 +17,11 @@ const SectionOne = () => {
         <div className='FullSectionColor'>
             <div className='container'>
                  <div className='row'>
+                 <div className="col-sm-6  webLogoStyle mt-5 animationTwo">
+                     <img className="img-fluid " src={Img} alt="webLogo"  />
+                     
+                     </div>
+                  
                   
                     <div className="col-sm-6 mt-5 contentstyle animation">
                           <h2>Hey, I'm Mansorol Islam.</h2>
@@ -41,11 +46,7 @@ const SectionOne = () => {
                      </div>
                     
 
-                     <div className="col-sm-6  webLogoStyle mt-5 animationTwo">
-                     <img className="img-fluid " src={Img} alt="webLogo"  />
-                     
-                     </div>
-                  
+                    
 
                  </div>
             </div>

@@ -1,0 +1,23 @@
+.FullSectionColorSix{
+    background-color:#212529;
+}
+
+.HeaderSectionSix{
+    font-size: 45px;
+    color: #ffff;
+    
+    padding:10px ;
+    letter-spacing: 7px;
+    text-align: center;
+}
+.FunSectionStyle h2{
+    color: #fff
+}
+.FunSectionStyle p{
+    color: #fff;
+    margin-bottom: 35px;
+    
+}
+.FunSectionStyle{
+    text-align: center;
+}
